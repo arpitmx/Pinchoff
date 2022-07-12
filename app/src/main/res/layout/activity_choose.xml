@@ -33,8 +33,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
+        android:gravity="center"
         android:inputType="textPersonName"
-        android:hint="Content 1"
+        android:hint="Pinch 1"
+        android:background="@null"
         app:layout_constraintBottom_toTopOf="@+id/et2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.502"
@@ -48,11 +50,29 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="84dp"
         android:ems="10"
-        android:hint="Content 2"
+        android:gravity="center"
+        android:background="@null"
+        android:hint="Pinch 2"
         android:inputType="textPersonName"
         app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.502"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="Pinchoff."
+        android:textSize="25dp"
+        android:textColor="@color/black"
+        android:fontFamily="sans-serif-smallcaps"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button2"
+        app:layout_constraintVertical_bias="0.0" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

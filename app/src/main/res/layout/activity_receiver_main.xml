@@ -4,20 +4,22 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#B6B6B6"
+    android:background="#E8E8E8"
     tools:context=".ReceiverMain">
 
-    <TextView
+    <EditText
 
         android:id="@+id/recieveView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center"
         android:textSize="20dp"
-        android:background="@color/white"
+        android:padding="10dp"
+        android:background="#F8F8F8"
         android:layout_margin="10dp"
-        android:elevation="5dp"
-        android:text="Text will appear here "
+        android:hint="Drop here "
+        android:clickable="true"
+        android:focusable="true"
         tools:layout_editor_absoluteX="185dp"
         tools:layout_editor_absoluteY="171dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

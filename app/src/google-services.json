@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107728542074",
+    "project_id": "pinchoff-c4ae3",
+    "storage_bucket": "pinchoff-c4ae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107728542074:android:d64e37c5b7ccd16f619ec3",
+        "android_client_info": {
+          "package_name": "com.bitpolarity.pinchoff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107728542074-qv29d714pqqku9nmr8ren40ltasuoe0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXZHWoUvN4O7Us4GyiB1SSFW2UrYOlE2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107728542074-qv29d714pqqku9nmr8ren40ltasuoe0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

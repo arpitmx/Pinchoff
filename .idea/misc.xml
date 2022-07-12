@@ -4,8 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Asus/AndroidStudioProjects/Pinchoff/app/src/main/res/layout/activity_choose.xml" value="0.259375" />
-        <entry key="..\:/Users/Asus/AndroidStudioProjects/Pinchoff/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/Pinchoff/app/src/main/res/layout/activity_main.xml" value="0.136" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/Pinchoff/app/src/main/res/layout/activity_receiver_main.xml" value="0.176" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/Pinchoff/app/src/main/res/layout/alert_dialog.xml" value="0.25833333333333336" />
       </map>
     </option>
   </component>

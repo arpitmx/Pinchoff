@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:weightSum="2"
 
-    android:background="#6A6A6A"
+    android:background="#EAEAEA"
     tools:context=".SenderMain">
 
 
@@ -15,15 +15,15 @@
         android:id="@+id/txt1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="The journey of a thousand miles begins with one step."
+
         android:gravity="center"
         android:textStyle="normal"
         android:textSize="20dp"
         android:padding="10dp"
         android:layout_marginBottom="5dp"
-        android:background="#EFEFEF"
+        android:background="#FFFFFF"
         android:layout_weight="1"
-
+        android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -34,12 +34,13 @@
         android:id="@+id/txt2"
         android:layout_width="match_parent"
         android:layout_height="100dp"
-        android:text="Life is what happens when you’re busy making other plans"
         android:gravity="center"
         android:textStyle="normal"
         android:textSize="20dp"
+        android:padding="10dp"
         android:layout_weight="1"
-        android:background="#EFEFEF"
+        android:textColor="@color/black"
+        android:background="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
